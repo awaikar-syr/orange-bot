@@ -117,4 +117,5 @@
 ---
 
 ## Links
-- **Live Demo**: [SU Career iBot Application][(https://su-career-ibot.streamlit.app/)]]
+- **Live Demo**: [SU Career iBot Application](https://su-career-ibot.streamlit.app/)
+
